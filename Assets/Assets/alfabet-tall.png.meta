@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 660aaa994654e584cb785fc344a848e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8370794806796660883
+    second: alfabet-tall_0
+  - first:
+      213: -5810580463766631094
+    second: alfabet-tall_1
+  - first:
+      213: 1538907169625106366
+    second: alfabet-tall_2
+  - first:
+      213: -2612917449201608164
+    second: alfabet-tall_3
+  - first:
+      213: 1318907104311286594
+    second: alfabet-tall_4
+  - first:
+      213: -1180820874071870018
+    second: alfabet-tall_5
+  - first:
+      213: 4206395821859555420
+    second: alfabet-tall_6
+  - first:
+      213: 6310681853177204286
+    second: alfabet-tall_7
+  - first:
+      213: 8555895078850247188
+    second: alfabet-tall_8
+  - first:
+      213: 3389222483819821159
+    second: alfabet-tall_9
+  - first:
+      213: 6569192823715667845
+    second: alfabet-tall_10
+  - first:
+      213: -6773078007267034017
+    second: alfabet-tall_11
+  - first:
+      213: 3446079591167359645
+    second: alfabet-tall_12
+  - first:
+      213: 106164685468508655
+    second: alfabet-tall_13
+  - first:
+      213: -9076018183528504898
+    second: alfabet-tall_14
+  - first:
+      213: -7892063219613970825
+    second: alfabet-tall_15
+  - first:
+      213: -4209086285105289442
+    second: alfabet-tall_16
+  - first:
+      213: -8356036386708676639
+    second: alfabet-tall_17
+  - first:
+      213: -1442662561024236326
+    second: alfabet-tall_18
+  - first:
+      213: -7464581751931148756
+    second: alfabet-tall_19
+  - first:
+      213: 4597464562394606838
+    second: alfabet-tall_20
+  - first:
+      213: -8649127985351357694
+    second: alfabet-tall_21
+  - first:
+      213: -4841651223648707547
+    second: alfabet-tall_22
+  - first:
+      213: 8383033325018996622
+    second: alfabet-tall_23
+  - first:
+      213: 8846882004306654926
+    second: alfabet-tall_24
+  - first:
+      213: -6622469772188061859
+    second: alfabet-tall_25
+  - first:
+      213: 7153340804842202207
+    second: alfabet-tall_26
+  - first:
+      213: -8653751703257812504
+    second: alfabet-tall_27
+  - first:
+      213: 8452265813344058560
+    second: alfabet-tall_28
+  - first:
+      213: -4962641943436636520
+    second: alfabet-tall_29
+  - first:
+      213: -5350819857063911008
+    second: alfabet-tall_30
+  - first:
+      213: -1720364435088608932
+    second: alfabet-tall_31
+  - first:
+      213: 9137910279519603702
+    second: alfabet-tall_32
+  - first:
+      213: -1793465832239643918
+    second: alfabet-tall_33
+  - first:
+      213: 7440573357936129224
+    second: alfabet-tall_34
+  - first:
+      213: -5774785979971417943
+    second: alfabet-tall_35
+  - first:
+      213: 4484411313142247384
+    second: alfabet-tall_36
+  - first:
+      213: -770642586857241124
+    second: alfabet-tall_37
+  - first:
+      213: 4438497955176045823
+    second: alfabet-tall_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alfabet-tall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 143
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390bcc2c6890b2470800000000000000
+      internalID: 8370794806796660883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 717
+        width: 120
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d8d5e9adbac5fa0800000000000000
+      internalID: -5810580463766631094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 720
+        width: 124
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb76ec3daeb4b5510800000000000000
+      internalID: 1538907169625106366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 719
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a1bec7c6d0dbbd0800000000000000
+      internalID: -2612917449201608164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_4
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 727
+        width: 113
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b96340603bd4210800000000000000
+      internalID: 1318907104311286594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_5
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 717
+        width: 109
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb57499dba1ec9fe0800000000000000
+      internalID: -1180820874071870018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 726
+        width: 139
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5840aaa6be106a30800000000000000
+      internalID: 4206395821859555420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_7
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 720
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8125c5bb049750800000000000000
+      internalID: 6310681853177204286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_8
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 721
+        width: 62
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ab16e3e35acb670800000000000000
+      internalID: 8555895078850247188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_9
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 721
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768f8d464efe80f20800000000000000
+      internalID: 3389222483819821159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_10
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 720
+        width: 138
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1e9e61167a2b50800000000000000
+      internalID: 6569192823715667845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 103
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c76dc00713102a0800000000000000
+      internalID: -6773078007267034017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 468
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af04b412fe2df20800000000000000
+      internalID: 3446079591167359645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 481
+        width: 133
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1aa0d083c297100800000000000000
+      internalID: 106164685468508655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 480
+        width: 129
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb12cc38c818b0280800000000000000
+      internalID: -9076018183528504898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_15
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 480
+        width: 117
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ecbf1d052c97290800000000000000
+      internalID: -7892063219613970825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 462
+        width: 141
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a45b03525695c0800000000000000
+      internalID: -4209086285105289442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 477
+        width: 119
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef9dffad25690c80800000000000000
+      internalID: -8356036386708676639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_18
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 485
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad425675b02aafbe0800000000000000
+      internalID: -1442662561024236326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_19
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 490
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26e747127a786890800000000000000
+      internalID: -7464581751931148756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_20
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 480
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc2afc39a97dcf30800000000000000
+      internalID: 4597464562394606838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 165
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b0e302cef18f780800000000000000
+      internalID: -8649127985351357694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 145
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c55104ddffeccb0800000000000000
+      internalID: -4841651223648707547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_23
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 237
+        width: 125
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fd406d464865470800000000000000
+      internalID: 8383033325018996622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_24
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 240
+        width: 127
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67e746f4076ca70800000000000000
+      internalID: 8846882004306654926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_25
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 238
+        width: 192
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fe7fc54d24814a0800000000000000
+      internalID: -6622469772188061859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_26
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 237
+        width: 136
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542deddf85c54360800000000000000
+      internalID: 7153340804842202207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_27
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 238
+        width: 143
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1f2e8eca2b7e780800000000000000
+      internalID: -8653751703257812504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccfc87a9fa7c4570800000000000000
+      internalID: 8452265813344058560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1
+        width: 124
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e41061277212bb0800000000000000
+      internalID: -4962641943436636520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1699a90b11eb5b0800000000000000
+      internalID: -5350819857063911008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1
+        width: 137
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51f35249a90028e0800000000000000
+      internalID: -1720364435088608932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_32
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb08280cf060de70800000000000000
+      internalID: 9137910279519603702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_33
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 125
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f24e88e3545c17e0800000000000000
+      internalID: -1793465832239643918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_34
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 119
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b4051c0a324760800000000000000
+      internalID: 7440573357936129224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_35
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 117
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8c5e15fb6dbdfa0800000000000000
+      internalID: -5774785979971417943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_36
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 0
+        width: 126
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df26927454db3e30800000000000000
+      internalID: 4484411313142247384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_37
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 83
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5069976a02e45f0800000000000000
+      internalID: -770642586857241124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alfabet-tall_38
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 130
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd092cf56b89d30800000000000000
+      internalID: 4438497955176045823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alfabet-tall_0: 8370794806796660883
+      alfabet-tall_1: -5810580463766631094
+      alfabet-tall_10: 6569192823715667845
+      alfabet-tall_11: -6773078007267034017
+      alfabet-tall_12: 3446079591167359645
+      alfabet-tall_13: 106164685468508655
+      alfabet-tall_14: -9076018183528504898
+      alfabet-tall_15: -7892063219613970825
+      alfabet-tall_16: -4209086285105289442
+      alfabet-tall_17: -8356036386708676639
+      alfabet-tall_18: -1442662561024236326
+      alfabet-tall_19: -7464581751931148756
+      alfabet-tall_2: 1538907169625106366
+      alfabet-tall_20: 4597464562394606838
+      alfabet-tall_21: -8649127985351357694
+      alfabet-tall_22: -4841651223648707547
+      alfabet-tall_23: 8383033325018996622
+      alfabet-tall_24: 8846882004306654926
+      alfabet-tall_25: -6622469772188061859
+      alfabet-tall_26: 7153340804842202207
+      alfabet-tall_27: -8653751703257812504
+      alfabet-tall_28: 8452265813344058560
+      alfabet-tall_29: -4962641943436636520
+      alfabet-tall_3: -2612917449201608164
+      alfabet-tall_30: -5350819857063911008
+      alfabet-tall_31: -1720364435088608932
+      alfabet-tall_32: 9137910279519603702
+      alfabet-tall_33: -1793465832239643918
+      alfabet-tall_34: 7440573357936129224
+      alfabet-tall_35: -5774785979971417943
+      alfabet-tall_36: 4484411313142247384
+      alfabet-tall_37: -770642586857241124
+      alfabet-tall_38: 4438497955176045823
+      alfabet-tall_4: 1318907104311286594
+      alfabet-tall_5: -1180820874071870018
+      alfabet-tall_6: 4206395821859555420
+      alfabet-tall_7: 6310681853177204286
+      alfabet-tall_8: 8555895078850247188
+      alfabet-tall_9: 3389222483819821159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
