@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 17357de460fe2234dbb3411c3360b375
+guid: 694a74fa28ca8b142bdc8f0240428595
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5299454176070220036
-    second: washmachine_0
+      213: -5486907221548753999
+    second: RedCarSide2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: washmachine_0
+      name: RedCarSide2_0
       rect:
         serializedVersion: 2
-        x: 408
-        y: 232
-        width: 683
-        height: 945
+        x: 51
+        y: 430
+        width: 1337
+        height: 405
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf6cfdb218e8476b0800000000000000
-      internalID: -5299454176070220036
+      spriteID: 1bb9f00f3f69ad3b0800000000000000
+      internalID: -5486907221548753999
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      washmachine_0: -5299454176070220036
+      RedCarSide2_0: -5486907221548753999
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
