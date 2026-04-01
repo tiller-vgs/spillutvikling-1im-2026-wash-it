@@ -1,15 +1,20 @@
 using System.Collections.Generic;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
+using UnityEngine.UIElements;
 
 public class CarRotation : MonoBehaviour
 {
-    public List<Texture2D> sprites;
+    public List<Sprite> sprites;
     public InputActionAsset inputActions;
     private InputAction m_Action;
     private Vector2 m_MoveAmt;
     private SpriteRenderer renderer;
+    public int currentIndex;
+    private int carAmmount;
+    private int carColour;
 
     private void OnEnable()
     {
@@ -29,17 +34,35 @@ public class CarRotation : MonoBehaviour
     void Start()
     {
         renderer = GetComponent<SpriteRenderer>()!;
+        carAmmount = sprites.Count / 4;
     }
 
     // Update is called once per frame
     void Update()
     {
-        m_MoveAmt = m_Action.ReadValue<Vector2>();
-        if (m_MoveAmt.x > 0)
+        if (Input.GetKeyDown(KeyCode.RightArrow))
         {
+            if (currentIndex - (carAmmount * carColour) == 4)
+            {
+                currentIndex = currentIndex - 3;
+            }
+            else { 
+            Debug.Log("Right key was pressed");
+            currentIndex = currentIndex + 1;
+            }
         }
-        else
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
+            if (currentIndex - (carAmmount * carColour) == 1)
+            {
+                currentIndex = currentIndex + 3;
+            }
+            else
+            {
+                Debug.Log("Left key was pressed");
+                currentIndex = currentIndex - 1;
+            }
         }
+        renderer.sprite = sprites[currentIndex];
     }
 }

@@ -150,27 +150,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CarRotation
   sprites:
-  - {fileID: 2800000, guid: 7b8486a10380bdf4aa8af228deef0ce4, type: 3}
-  - {fileID: 2800000, guid: 39169a4572e34cf41a05241e2c9bfa30, type: 3}
-  - {fileID: 2800000, guid: 2edf28db80a304c4394d8fa05c33d23c, type: 3}
-  - {fileID: 2800000, guid: 7c9aaa17ef69edb4798552678408350f, type: 3}
-  - {fileID: 2800000, guid: df3b55ef91439e2439cd5d98b7ba899a, type: 3}
-  - {fileID: 2800000, guid: c1b43c6e0569b9f4196a9e98fc171c9a, type: 3}
-  - {fileID: 2800000, guid: 748465558e0cbbf4b87ab84791a236cb, type: 3}
-  - {fileID: 2800000, guid: 46af2798fd95dff4cbfce3699ea2ec5f, type: 3}
-  - {fileID: 2800000, guid: d26128a55369cdb4ebc3a2a772152aa7, type: 3}
-  - {fileID: 2800000, guid: ccca3c54e885c2b43ac010dd6c7701d3, type: 3}
-  - {fileID: 2800000, guid: 2ebf740cec10e8b43a246f721971d6b6, type: 3}
-  - {fileID: 2800000, guid: ac6229067799cc346aa8135cde92e026, type: 3}
-  - {fileID: 2800000, guid: 243f1971ac603ac429b13b7ab26d51c9, type: 3}
-  - {fileID: 2800000, guid: c37d2ca5ee798ac42852cdd44ccb0fc4, type: 3}
-  - {fileID: 2800000, guid: 0fe6279bd7f8e604d8127bc448c1f31f, type: 3}
-  - {fileID: 2800000, guid: 694a74fa28ca8b142bdc8f0240428595, type: 3}
-  - {fileID: 2800000, guid: 2f7907fae99905b42b6b250460521c8d, type: 3}
-  - {fileID: 2800000, guid: 9bc2c519aefcef841b6136ccbd0b27ae, type: 3}
-  - {fileID: 2800000, guid: 26673b374ddd88a458524eae2ccc4818, type: 3}
-  - {fileID: 2800000, guid: d781683ae5ebf604ebd0a32592b6c525, type: 3}
+  - {fileID: 0}
+  - {fileID: -8483669708051713898, guid: 7b8486a10380bdf4aa8af228deef0ce4, type: 3}
+  - {fileID: 5444741355920548504, guid: 39169a4572e34cf41a05241e2c9bfa30, type: 3}
+  - {fileID: 2563036388945724734, guid: 2edf28db80a304c4394d8fa05c33d23c, type: 3}
+  - {fileID: -7306928961735946641, guid: 7c9aaa17ef69edb4798552678408350f, type: 3}
+  - {fileID: 2349412764744043805, guid: df3b55ef91439e2439cd5d98b7ba899a, type: 3}
+  - {fileID: -3168659615874610215, guid: c1b43c6e0569b9f4196a9e98fc171c9a, type: 3}
+  - {fileID: -8105152251665157769, guid: 748465558e0cbbf4b87ab84791a236cb, type: 3}
+  - {fileID: 4249054002979329039, guid: 46af2798fd95dff4cbfce3699ea2ec5f, type: 3}
+  - {fileID: 432345033319907281, guid: d26128a55369cdb4ebc3a2a772152aa7, type: 3}
+  - {fileID: -8582264372232852160, guid: ccca3c54e885c2b43ac010dd6c7701d3, type: 3}
+  - {fileID: 7068406225725155124, guid: 2ebf740cec10e8b43a246f721971d6b6, type: 3}
+  - {fileID: -1278393697103493521, guid: ac6229067799cc346aa8135cde92e026, type: 3}
+  - {fileID: -853871403346072579, guid: 243f1971ac603ac429b13b7ab26d51c9, type: 3}
+  - {fileID: 4036061840218376048, guid: c37d2ca5ee798ac42852cdd44ccb0fc4, type: 3}
+  - {fileID: 5201039270452368909, guid: 0fe6279bd7f8e604d8127bc448c1f31f, type: 3}
+  - {fileID: -5486907221548753999, guid: 694a74fa28ca8b142bdc8f0240428595, type: 3}
+  - {fileID: 9093022280672649248, guid: 2f7907fae99905b42b6b250460521c8d, type: 3}
+  - {fileID: -4321636565270088416, guid: 9bc2c519aefcef841b6136ccbd0b27ae, type: 3}
+  - {fileID: -41553130756618284, guid: 26673b374ddd88a458524eae2ccc4818, type: 3}
+  - {fileID: 7224308602464621131, guid: d781683ae5ebf604ebd0a32592b6c525, type: 3}
   inputActions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  currentIndex: 0
 --- !u!212 &663299057
 SpriteRenderer:
   serializedVersion: 2
@@ -239,7 +241,7 @@ Transform:
   m_GameObject: {fileID: 663299055}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.50967, y: 1.17998, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
