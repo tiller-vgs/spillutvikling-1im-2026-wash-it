@@ -1,20 +1,34 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Timer : MonoBehaviour
+public class GameTimer : MonoBehaviour
 {
+    public float timeElapsed = 0f;
+    public bool isRunning = true;
 
-    public float StartTime;
-    public Text timer;
+    public Text timerText; // assign in Inspector
 
     void Update()
     {
-        StartTime += Time.deltaTime * 1;
-        int seconds = (int)(StartTime % 60);
-        int minutes = (int)(StartTime / 60) % 60;
-        int hours = (int)(StartTime / 3600) % 24;
-        string timerstr = string.Format("{0:0}:{1:00}:{2:00}", hours, minutes, seconds);
+        if (isRunning)
+        {
+            timeElapsed += Time.deltaTime;
+            UpdateTimerDisplay();
+        }
+    }
 
-        timer.text = timerstr;
+    void UpdateTimerDisplay()
+    {
+        int minutes = Mathf.FloorToInt(timeElapsed / 60);
+        int seconds = Mathf.FloorToInt(timeElapsed % 60);
+
+        timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
+    }
+
+    // Call this when player finishes
+    public void StopTimer()
+    {
+        isRunning = false;
+        Debug.Log("Final Time: " + timeElapsed);
     }
 }
