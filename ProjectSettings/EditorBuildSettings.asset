@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Office-Scene.unity
     guid: e5ab2e296ceb20b49ae388ffafdd4fca
+  - enabled: 1
+    path: Assets/Scenes/Keyboard Scene.unity
+    guid: 23cf91b7efbe7634595f9a5e1f79109d
+  - enabled: 1
+    path: Assets/Scenes/Washroom-Scene.unity
+    guid: 1c7fadd7b91b99f4ca91a097808c4851
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
