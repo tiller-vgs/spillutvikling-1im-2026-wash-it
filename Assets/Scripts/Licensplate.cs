@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class Licensplate : MonoBehaviour
 {
     public Text counterText;
-    public string Registration;
+    public static string Registration;
 
     public void Update()
     {

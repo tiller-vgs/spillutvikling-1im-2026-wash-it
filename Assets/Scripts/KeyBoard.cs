@@ -6,7 +6,7 @@ using TMPro;
 public class KeyBoard:MonoBehaviour
 {
     public TMP_InputField CharHolder;
-    public string password = "1234";
+    //public Licensplate class
     public void AddChar(string c)
     {
         CharHolder.text += c;
@@ -17,7 +17,7 @@ public class KeyBoard:MonoBehaviour
     }
     public void Enterevent()
     {
-        if (CharHolder.text == password)
+        if (CharHolder.text == Licensplate.Registration)
         {
             Debug.Log("Success");
             CharHolder.text = "";
