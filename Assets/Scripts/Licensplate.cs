@@ -8,6 +8,9 @@ using Random = UnityEngine.Random;
 public class Licensplate : MonoBehaviour
 {
     public Text counterText;
+    public int Numbers;
+    public string Registration;
+    public string[] Letters= {"A", "B", "C", "D", "E", "F", "G", "H"};
 
 
     public void Start()
