@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: df3b55ef91439e2439cd5d98b7ba899a
+guid: a1490ba8f5f4fd44e875a026e360a1e4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2349412764744043805
-    second: GreenCarFront_0
+      213: -8605731427077781133
+    second: Skjermbilde 2026-03-25 130728_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenCarFront_0
+      name: Skjermbilde 2026-03-25 130728_0
       rect:
         serializedVersion: 2
-        x: 366
-        y: 347
-        width: 812
-        height: 605
+        x: 0
+        y: 0
+        width: 944
+        height: 531
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4659367aca9020800000000000000
-      internalID: 2349412764744043805
+      spriteID: 3790d98bcdc429880800000000000000
+      internalID: -8605731427077781133
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GreenCarFront_0: 2349412764744043805
+      Skjermbilde 2026-03-25 130728_0: -8605731427077781133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

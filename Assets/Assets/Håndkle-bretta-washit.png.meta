@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: df3b55ef91439e2439cd5d98b7ba899a
+<<<<<<<< HEAD:Assets/Assets/Timer.png.meta
+guid: 489a7864922acdf42929fd2004129185
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2349412764744043805
-    second: GreenCarFront_0
+      213: -8801819111103863087
+    second: Timer_0
+========
+guid: c50e10da30a416648976d8b707b84912
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7098070725773185330
+    second: "H\xE5ndkle-bretta-washit_0"
+>>>>>>>> dev:Assets/Assets/Håndkle-bretta-washit.png.meta
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +106,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +122,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GreenCarFront_0
+<<<<<<<< HEAD:Assets/Assets/Timer.png.meta
+      name: Timer_0
+========
+      name: "H\xE5ndkle-bretta-washit_0"
+>>>>>>>> dev:Assets/Assets/Håndkle-bretta-washit.png.meta
       rect:
         serializedVersion: 2
-        x: 366
-        y: 347
-        width: 812
-        height: 605
+        x: 0
+        y: 0
+<<<<<<<< HEAD:Assets/Assets/Timer.png.meta
+        width: 900
+        height: 444
+========
+        width: 631
+        height: 394
+>>>>>>>> dev:Assets/Assets/Håndkle-bretta-washit.png.meta
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +146,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1d4659367aca9020800000000000000
-      internalID: 2349412764744043805
+<<<<<<<< HEAD:Assets/Assets/Timer.png.meta
+      spriteID: 1d6e8690728a9d580800000000000000
+      internalID: -8801819111103863087
+========
+      spriteID: ecea0b738469e7d90800000000000000
+      internalID: -7098070725773185330
+>>>>>>>> dev:Assets/Assets/Håndkle-bretta-washit.png.meta
       vertices: []
       indices: 
       edges: []
@@ -161,7 +171,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      GreenCarFront_0: 2349412764744043805
+<<<<<<<< HEAD:Assets/Assets/Timer.png.meta
+      Timer_0: -8801819111103863087
+========
+      "H\xE5ndkle-bretta-washit_0": -7098070725773185330
+>>>>>>>> dev:Assets/Assets/Håndkle-bretta-washit.png.meta
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

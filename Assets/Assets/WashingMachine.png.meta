@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: f901ce613dcc6de4083915afcbc105fb
+=======
+<<<<<<<< Updated upstream:Assets/Assets/washmachine.png.meta
+guid: b8a6de8b39861a44fb4c00e118d1a8bb
+========
+guid: a0c7685ed6699204ca5e61c4161cdae5
+>>>>>>>> Stashed changes:Assets/Assets/WashingMachine.png.meta
+>>>>>>> Stashed changes
 TextureImporter:
   internalIDToNameTable:
   - first:
