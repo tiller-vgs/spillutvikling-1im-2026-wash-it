@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Prefabs/Cloth_0.prefab.meta
+guid: 4d1eca94423d02d49bb1c77d789766af
+PrefabImporter:
+========
 guid: 3168066a994d95b4097e2a18ee2724e3
 DefaultImporter:
+>>>>>>>> dev:Assets/_Recovery/0 (2).unity.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
