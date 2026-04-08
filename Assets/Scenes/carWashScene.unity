@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 488993663}
   - component: {fileID: 488993662}
   - component: {fileID: 488993664}
+  - component: {fileID: 488993665}
   m_Layer: 5
   m_Name: Text (Legacy)
   m_TagString: Untagged
@@ -213,6 +214,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Licensplate
   counterText: {fileID: 488993662}
   Registration: 
+--- !u!114 &488993665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 488993660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cbaf38335daa7244bf613059b858e24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Invistoggle
+  PlateNum: {fileID: 488993662}
+  Invis: 0
 --- !u!1 &498797670
 GameObject:
   m_ObjectHideFlags: 0

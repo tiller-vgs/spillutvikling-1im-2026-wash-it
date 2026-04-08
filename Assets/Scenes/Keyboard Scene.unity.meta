@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Keyboard Scene.unity.meta
 guid: 23cf91b7efbe7634595f9a5e1f79109d
+========
+guid: 1ffde0caec3408a43843e8901e43c63e
+>>>>>>>> a2735319cc9730bdec17af959cb2a0d9f72b133a:Assets/Scenes/Wash-RoomScene.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
