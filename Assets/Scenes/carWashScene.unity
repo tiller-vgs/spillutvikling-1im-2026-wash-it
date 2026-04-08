@@ -214,6 +214,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Licensplate
   counterText: {fileID: 488993662}
   Registration: 
+  Letters:
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - G
+  - H
+  Numbers: 0
 --- !u!114 &488993665
 MonoBehaviour:
   m_ObjectHideFlags: 0
