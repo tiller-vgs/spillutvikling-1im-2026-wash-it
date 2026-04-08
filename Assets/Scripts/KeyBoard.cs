@@ -7,7 +7,6 @@ public class KeyBoard : MonoBehaviour
 {
     public TMP_InputField CharHolder;
     public string password = "1234";
-
     public void AddChar(string c)
     {
         CharHolder.text += c;
@@ -20,8 +19,14 @@ public class KeyBoard : MonoBehaviour
 
     public void Enterevent()
     {
-        bool correct = CharHolder.text == password;
-        Debug.Log(correct ? "Success" : "Failed");
-        Clearevent();
+        if (CharHolder.text == password)
+        {
+            Debug.Log("Success");
+            CharHolder.text = "";
+        }
+        else
+        {
+            Debug.Log("Failed");
+        }
     }
 }
