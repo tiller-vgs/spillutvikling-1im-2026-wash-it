@@ -5641,7 +5641,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1675560508}
   - component: {fileID: 1675560507}
-  m_Layer: 1
+  m_Layer: 2
   m_Name: Keyboard_0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5695,7 +5695,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2823838568841336431, guid: 5bbab169d53cfab438b83ea28791b7cc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -6576,7 +6576,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -582, y: 159}
+  m_AnchoredPosition: {x: 658, y: 33}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1925649939
@@ -7082,6 +7082,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 1318886676}
   - {fileID: 1449757255}
-  - {fileID: 1675560508}
   - {fileID: 157661323}
   - {fileID: 642522165}
+  - {fileID: 1675560508}
